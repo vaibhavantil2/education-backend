@@ -26,7 +26,7 @@ chardet==4.0.0
     #   requests
 cognitive-complexity==1.2.0
     # via flake8-cognitive-complexity
-coverage==5.5
+coverage==6.0.2
     # via pytest-cov
 decorator==5.1.0
     # via ipython
